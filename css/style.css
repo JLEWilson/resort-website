@@ -1,0 +1,65 @@
+/*homepageLinks
+Menue
+AccomodationsList
+body
+h1
+h2
+h3
+p
+*/
+/* #3b2c5e purple
+#616161 grey
+#444445 Dark Grey
+#37a13e Toxic green */
+.Menue{
+  font-family: sans-serif, Arial;
+}
+.Menue a{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+a:link{
+  color: #37a13e;
+}
+a:visited{
+  color: #702626;
+}
+.HomepageLinks{
+  background-color: #616161;
+  align-self: center;
+  text-align: center;
+}
+.HomepageLinks a{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.HomepageTitle{
+  font-size: 60px;
+  text-align: center;
+}
+h1{
+  background-color: #616161;
+  color: #37a13e;
+}
+h2{
+
+}
+h3{
+  font-style: italic;
+}
+body{
+  background-color: #3b2c5e;
+  color: #37a13e;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.AccomodationsList{
+  font-weight: 800;  
+}
+.TextBlock{
+  background-color: #444445;
+}
+.TextBlock p{
+  padding-left: 30px;
+  padding-right: 30px;
+}
