@@ -6,11 +6,16 @@ h1
 h2
 h3
 p
-*/
-/* #3b2c5e purple
+/
+/ #3b2c5e purple
 #616161 grey
 #444445 Dark Grey
-#37a13e Toxic green */
+#37a13e Toxic green
+#ff0000 american flag red
+#0055ff freedom blue
+#ffe600 sunny yellow
+
+*/
 .Menue{
   font-family: sans-serif, Arial;
 }
@@ -20,7 +25,7 @@ p
   padding-bottom: 30px;
 }
 a:link{
-  color: #37a13e;
+  color: #ff0000;
 }
 a:visited{
   color: #702626;
@@ -32,7 +37,7 @@ a:visited{
   width: 90%;
 }
 .HomepageLinks{
-  background-color: #616161;
+  background-color: #ffe600;
   align-self: center;
   text-align: center;
 }
@@ -45,23 +50,23 @@ a:visited{
   text-align: center;
 }
 h1{
-  background-color: #616161;
-  color: #37a13e;
+  background-color: #ffe600;
+  color: #ff0000;
 }
 
 h3{
   font-style: italic;
 }
 body{
-  background-color: #3b2c5e;
-  color: #37a13e;
+  background-color: #0055ff;
+  color: #ff0000;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .AccomodationsList{
-  font-weight: 800;  
+  font-weight: 800;
 }
 .TextBlock{
-  background-color: #444445;
+  background-color: #ffe600;
 }
 .TextBlock p{
   padding-left: 30px;
